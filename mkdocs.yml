@@ -1,0 +1,70 @@
+site_name: TwoDo
+theme:
+  name: material
+  
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+    
+
+  language: en
+  palette:
+    scheme: slate
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">Two Dwo</a>
+
+nav:
+  - Início: 'index.md'
+  - Documentação:
+    - 'Visão do Produto e Projeto':
+      - 'Histórico de Revisão': 'documentacao/visaoProdutoProjeto/historicoRevisao.md'
+      - 'Visão Geral do Produto': 'documentacao/visaoProdutoProjeto/visaoGeralProduto.md'
+      - 'Visão Geral do Projeto': 'documentacao/visaoProdutoProjeto/visaoGeralProjeto.md'
+      - 'Processo de Desenvolvimento de Software': 'documentacao/visaoProdutoProjeto/processoDesenvolvimento.md'
+    - 'Backlog do Produto': 'documentacao/backlog.md'
+    - 'Estratégias de Implementação': 'documentacao/estrategias.md'
+    - Design:
+      - 'Arquitetura de Projeto': 'documentacao/design/arqProjeto.md'
+      - 'Arquitetura de Design': 'documentacao/design/arqDesign.md'
+
+
+
+
+
+
+
+
+extra:
+  prev_next_buttons: true
+
+
+markdown_extensions:
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - toc: {} # adiciona a tabela de conteúdo 
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css

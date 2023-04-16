@@ -1,0 +1,14 @@
+.md-tabs, .md-header, .md-footer {
+    --md-primary-fg-color: #202024;
+}
+
+.md-main, .md-nav__list {
+    background-color: rgb(42, 38, 63); /* ou a cor desejada */
+    --md-primary-fg-color: #202024;
+    --md-default-bg-color: rgb(42, 38, 63);
+  }
+
+*{
+    --md-typeset-a-color: white;
+    --md-default-fg-color--light: white;
+}
