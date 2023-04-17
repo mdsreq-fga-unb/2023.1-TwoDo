@@ -21,3 +21,26 @@
 
 ## Gerenciamento de riscos
 
+|Lista de Riscos	|Estratégias para redução de riscos	|Escala qualitativa (baixa, média, alta)|
+|-------------------|---------------------------|-----------------------|
+|- Atrasos no cronograma|	Utilização de metodologias ágeis, que enfatizam a comunicação frequente, o planejamento flexível e a entrega incremental de funcionalidades. Definição clara de metas e prazos realistas, ferramentas de gestão de projetos e a priorização de tarefas.	|Alta|
+| - Mudanças frequentes no escopo | Definir claramente o backlog, estabelecer um processo organizado para o gerenciamento de mudanças de forma realista e transparente, identificar e priorizar requisitos, se comunicar claramente com o cliente, fornecer entregas frequentes.|	Alta |
+|- Ausência de experiência técnica |	Investir em capacitações técnicas, aprender com a comunidade de desenvolvimento de software, investir em prototipagem e testes, se concentrar em tecnologias familiares, manter o estudo constante e ir em busca de conhecimento. |	Baixa |
+|- Limitações de comunicação com o cliente	|Estabelecer um ponto de contato único, utilizar ferramentas de comunicação, documentar o processo de desenvolvimento, adotar uma abordagem iterativa, utilizar protótipos e mockups e contratar um intermediário para atuar como canal de comunicação.|	Média|
+|- Documentação abstrata |	Revisões de código, adoção de metodologias ágeis, uso de ferramentas de testes, utilização de diagramas e fluxogramas, criação de protótipos e mockups, estabelecimento de um glossário de termos e comunicação frequente com o cliente. |	Baixa |
+| - Problemas com performance e qualidade do produto |	Identificar e priorizar os problemas, refatorar e otimizar todo o código e suas propriedades, adotar boas práticas de desenvolvimento, utilizar ferramentas de monitoramento, adotar uma mentalidade de melhoria contínua e manter um padrão de qualidade em busca da excelência do produto. |	Média |
+| - Falhas no controle de qualidade e testes	|Identificar e priorizar as falhas, revisar processos, automatizar testes, estabelecer padrões de qualidade, adotar boas práticas de desenvolvimento, capacitar a equipe, manter comunicação com usuários e stakeholders. |	Alta |
+| - Falta de comprometimento da equipe |	Objetivos claros, motivar a equipe, definir papéis e responsabilidades, encorajar a colaboração, estabelecer um plano de ação, oferecer suporte e recursos e manter uma comunicação aberta e transparente com a equipe.	| Média |
+| - Concentração excessiva em uma única área resultando na não conclusão do produto completo do backlog. |	Monitoramento constante, estabelecer uma exata definição de pronto, garantir a eficácia, eficiência, suporte e revisões, buscar expandir o conhecimento e entregar algo de qualidade e funcional. |	Alta |
+
+## Critérios de replanejamento
+
+-	Atrasos no cronograma;
+-	Alterações na equipe de trabalho;
+-	Riscos identificados que afetam o projeto;
+-	Mudanças no escopo do projeto;
+-	Mudanças nos requisitos do cliente ou dos stakeholders;
+-	Mudanças na tecnologia ou na infraestrutura do projeto;
+-	Problemas de comunicação ou colaboração entre as partes interessadas;
+-	Problemas técnicos que afetam o desenvolvimento do software;
+-	Problemas de qualidade do produto ou do processo de desenvolvimento.
