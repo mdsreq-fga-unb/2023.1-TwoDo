@@ -1,7 +1,8 @@
 site_name: TwoDo
 theme:
   name: material
-  
+
+
   features:
     - navigation.tabs
     - navigation.top
@@ -25,8 +26,8 @@ copyright: |
 nav:
   - Início: 'index.md'
   - Documentação:
+    - 'Histórico de Revisão': 'documentacao/historicoRevisao.md'
     - 'Visão do Produto e Projeto':
-      - 'Histórico de Revisão': 'documentacao/visaoProdutoProjeto/historicoRevisao.md'
       - 'Visão Geral do Produto': 'documentacao/visaoProdutoProjeto/visaoGeralProduto.md'
       - 'Visão Geral do Projeto': 'documentacao/visaoProdutoProjeto/visaoGeralProjeto.md'
       - 'Processo de Desenvolvimento de Software': 'documentacao/visaoProdutoProjeto/processoDesenvolvimento.md'
@@ -35,6 +36,10 @@ nav:
     - Design:
       - 'Arquitetura de Projeto': 'documentacao/design/arqProjeto.md'
       - 'Arquitetura de Design': 'documentacao/design/arqDesign.md'
+  - Entregas: 
+    - 'Unidade 1': 'entregas/unidade 1/unidade 1.md'
+
+
 
 
 
