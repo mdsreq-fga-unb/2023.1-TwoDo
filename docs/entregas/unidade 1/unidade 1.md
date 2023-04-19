@@ -1,4 +1,18 @@
-# Metodologia Scrum
+# Diagrama de Ishikawa
+
+![Diagrama de Ishikawa](https://raw.githubusercontent.com/mdsreq-fga-unb/2023.1-TwoDo/main/docs/imgs/Diagrama.png?raw=true)
+
+------------------------------------------------------------------
+
+# Apresentação da Equipe / Problema
+
+![Slide 1 - Problema](https://raw.githubusercontent.com/mdsreq-fga-unb/2023.1-TwoDo/main/docs/imgs/Problema1.png)
+![Slide 2 - Problema](https://github.com/mdsreq-fga-unb/2023.1-TwoDo/blob/main/docs/imgs/Problema2.png?raw=true)
+![Slide 3 - Problema](https://github.com/mdsreq-fga-unb/2023.1-TwoDo/blob/main/docs/imgs/Problema3.png?raw=true)
+
+------------------------------------------------------------------
+
+# Metodologia Adotada
 
 ![Slide 1 - Scrum](https://raw.githubusercontent.com/mdsreq-fga-unb/2023.1-TwoDo/main/docs/imgs/1.png)
 ![Slide 2 - Scrum](https://github.com/mdsreq-fga-unb/2023.1-TwoDo/blob/main/docs/imgs/2.png?raw=true)
