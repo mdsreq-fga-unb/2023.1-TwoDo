@@ -1,7 +1,11 @@
+# Visão Geral do Projeto
+
+## Historico de Revisão
+
 | Data     | Versão | Descrição                  | Autor(es)                                                                          |
 |----------|--------|----------------------------|---------------------------------------------------------------------------------------------|
-|16/04/2023|   0.1  | Criação do gitpages, Feito Visão Geral do Produto e do Projeto        |[Arthur](https://github.com/Arthrok), [Eric](https://github.com/ericbky), [Pedro Lucas](https://github.com/lucasdray), [Yasmim](https://github.com/yaskisoba)|
-|18/04/2023|   0.2  | Topicos 1-4 finalizados| [Arthur](https://github.com/Arthrok), [Eric](https://github.com/ericbky), [Pedro Lucas](https://github.com/lucasdray)|
+|16/04/2023|   0.1  | Criação do gitpages, adição do visão geral do produto e do projeto        |[Arthur](https://github.com/Arthrok), [Eric](https://github.com/ericbky), [Pedro Lucas](https://github.com/lucasdray), [Yasmim](https://github.com/yaskisoba)|
+|18/04/2023|   0.2  | Topicos 1-4 finalizados temporáriamente| [Arthur](https://github.com/Arthrok), [Eric](https://github.com/ericbky), [Pedro Lucas](https://github.com/lucasdray)|
 
 ## 1 - Organização do Projeto
 

@@ -1,14 +1,16 @@
-# Historico de Revisão
+# Visão Geral do Produto
+
+## Historico de Revisão
 
 | Data     | Versão | Descrição                  | Autor(es)                                                                          |
 |----------|--------|----------------------------|---------------------------------------------------------------------------------------------|
-|16/04/2023|   0.1  | Criação do gitpages, Feito Visão Geral do Produto e do Projeto        |[Arthur](https://github.com/Arthrok), [Eric](https://github.com/ericbky), [Pedro Lucas](https://github.com/lucasdray), [Yasmim](https://github.com/yaskisoba)|
-|18/04/2023|   0.2  | Feito entrega da Unidade 1, Topicos 1-4 finalizados| [Arthur](https://github.com/Arthrok), [Eric](https://github.com/ericbky), [Pedro Lucas](https://github.com/lucasdray)|
+|16/04/2023|   0.1  | Criação do gitpages, finalizado o visão geral do produto e do projeto        |[Arthur](https://github.com/Arthrok), [Eric](https://github.com/ericbky), [Pedro Lucas](https://github.com/lucasdray), [Yasmim](https://github.com/yaskisoba)|
+|18/04/2023|   0.2  | Finalizado a entrega da Unidade 1, tópicos de 1 a 4| [Arthur](https://github.com/Arthrok), [Eric](https://github.com/ericbky), [Pedro Lucas](https://github.com/lucasdray), [Yasmim](https://github.com/yaskisoba)|
 
 
+-----------------------------------------------------------------
 
-
-# 1 - Problema
+## 1 - Problema
 A falta de um ambiente especifico e de facil localização para que alunos da UnB-FGA, tanto calouros como veteranos, possam pedir por ajuda em matérias e possam ajudar outros alunos com uma comunicação direta e rapida
 
 ## 2 - Declaração de Posição do Produto
