@@ -26,16 +26,11 @@ copyright: |
 nav:
   - Início: 'index.md'
   - Documentação:
-    - 'Histórico de Revisão': 'documentacao/historicoRevisao.md'
-    - 'Visão do Produto e Projeto':
-      - 'Visão Geral do Produto': 'documentacao/visaoProdutoProjeto/visaoGeralProduto.md'
-      - 'Visão Geral do Projeto': 'documentacao/visaoProdutoProjeto/visaoGeralProjeto.md'
-      - 'Processo de Desenvolvimento de Software': 'documentacao/visaoProdutoProjeto/processoDesenvolvimento.md'
-    - 'Backlog do Produto': 'documentacao/backlog.md'
-    - 'Estratégias de Implementação': 'documentacao/estrategias.md'
-    - Design:
-      - 'Arquitetura de Projeto': 'documentacao/design/arqProjeto.md'
-      - 'Arquitetura de Design': 'documentacao/design/arqDesign.md'
+    - 'Visão Geral do Produto': 'documentacao/visaoGeralProduto.md'
+    - 'Visão Geral do Projeto': 'documentacao/visaoGeralProjeto.md'
+    - 'Processo de Desenvolvimento de Software': 'documentacao/processoDesenvolvimento.md'
+    - 'Lições Aprendidas': 'documentacao/licoesAprendidas.md'
+    - 'Referências Bibliográficas': 'documentacao/referenciasBibliograficas.md'
   - Entregas: 
     - 'Unidade 1': 'entregas/unidade 1/unidade 1.md'
 
@@ -67,6 +62,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - pymdownx.tasklist
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
