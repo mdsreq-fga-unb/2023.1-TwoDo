@@ -1,5 +1,7 @@
 # Visão Geral do Produto
 
+Este produto de software é uma aplicação web, desenvolvido por acadêmicos da Universidade de Brasília, voltado a promoção de networking, compartilhamento de de habilidades técnicas ou experiências, tendo como objetivo ser um ambiente colaborativo e estimulante, para crescimento profissional e pessoal dos usuários.
+
 ## Historico de Revisão
 
 | Data     | Versão | Descrição                  | Autor(es)                                                                          |
