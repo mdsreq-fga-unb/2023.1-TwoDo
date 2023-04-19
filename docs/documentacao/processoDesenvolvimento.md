@@ -9,12 +9,50 @@
 
 Para o desenvolvimento do produto, a equipe utilizará fundamentalmente terá algumas práticas como: comunicação, simplicidade, feedback, coragem e respeito. Na mesma linhagem, seguiremos de forma híbrida, algumas práticas de desenvolvimento de software envolvendo "XP" com o método de gerenciamento de projetos "Scrum", assim como seus valores, princípios, filosofias e práticas, com algumas básicas adaptações.
 
-# Práticas adotadas do Scrum
+# Scrum
 
+Scrum é um framework leve que ajuda pessoas,times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos.
 
-...
+### Separação dos papéis
 
-# Práticas do XP que serão usadas
+ O time será divido entre o Product Owner (PO), o Scrum Master e o Scrum Team.
+
+### Práticas adotadas do Scrum
+
+ - Definição do Product Backlog;
+- Sprint Planning Meeting
+
+- Sprint Backlog
+
+- Adaptação do Daily Scrum
+
+- Sprint Review
+
+- Sprint Retrospective
+
+----------------------------------
+
+# XP (Extreming Programming)
+
+XP é um estilo de desenvolvimento de software com foco na excelente aplicação de técnicas de programação, comunicação clara e trabalho em equipe.
+
+O XP inclui uma filosofia de desenvolvimento de software baseada nos valores de comunicação, feedback, simplicidade, coragem e respeito.
+
+### Práticas do XP que serão usadas
+
+- [x] Jogo do planejamento
+- [x] Programação em pares
+- [x] Pequenas versões
+- [x] Propriedade coletiva
+- [ ] Metáforas
+- [x] Integração contínua
+- [x] Projeto Simples 
+- [ ] Semana de 40 horas
+- [x] Testes
+- [x] Cliente Presente
+- [x] Refatoração
+- [x] Padronização de código
+- [ ] Reunião diária 
 
 <ul>
   <li><input type="checkbox" checked class="checkbox" id='TESTE'> Jogo do planejamento</li>
@@ -42,3 +80,4 @@ for (var i = 0; i < checkbox.length; i++) {
 }
 
 </script>
+
