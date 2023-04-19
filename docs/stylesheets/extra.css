@@ -26,9 +26,6 @@ footer {
     
 }
 
-input[type="checkbox"][disabled]:hover {
-    cursor: grab;
-  }
 
 li {
     list-style: none;

@@ -34,8 +34,4 @@ for (var i = 0; i < checkbox.length; i++) {
 })
 }
 
-
-
-
-
 </script>
