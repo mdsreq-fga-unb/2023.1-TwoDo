@@ -10,7 +10,7 @@
 Para o desenvolvimento do produto, a equipe utilizará fundamentalmente terá algumas práticas como: comunicação, simplicidade, feedback, coragem e respeito. Na mesma linhagem, seguiremos de forma híbrida, algumas práticas de desenvolvimento de software envolvendo "XP" com o método de gerenciamento de projetos "Scrum", assim como seus valores, princípios, filosofias e práticas, com algumas básicas adaptações.
 
 -----------------------------------------------------------------------------------------------------------------
-# Scrum
+## Scrum
 
 Scrum é um framework leve que ajuda pessoas,times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos.
 
@@ -33,7 +33,7 @@ Scrum é um framework leve que ajuda pessoas,times e organizações a gerar valo
 
 ----------------------------------
 
-# XP (Extreming Programming)
+## XP (Extreming Programming)
 
 XP é um estilo de desenvolvimento de software com foco na excelente aplicação de técnicas de programação, comunicação clara e trabalho em equipe.
 

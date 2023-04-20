@@ -32,7 +32,9 @@ nav:
     - 'Lições Aprendidas': 'documentacao/licoesAprendidas.md'
     - 'Referências Bibliográficas': 'documentacao/referenciasBibliograficas.md'
   - Entregas: 
-    - 'Unidade 1': 'entregas/unidade 1/unidade 1.md'
+    - 'Unidade 1': 
+      - 'Seminário - Processos e Ciclos de Vida': 'entregas/unidade 1/seminario.md'
+      - 'Vídeo - Apresentação GitPages': 'entregas/unidade 1/videoApresentacao.md'
 
 
 
