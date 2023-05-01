@@ -260,5 +260,54 @@
 <td>O e-mail deve ser autenticado em até 10 minutos</td>
 <td>Alta</td>
 </tr>
+<tr>
+<td>E4</td>
+<td>FT01</td>
+<td>US28</td>
+<td>Como um usuário, eu quero ser capaz de enviar mensagens públicas para outros usuários em tempo real, para que eu possa ter conversas públicas com outros usuários sem precisar atualizar a página.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>FT01</td>
+<td>US29</td>
+<td>Como um usuário, eu quero ser capaz de enviar mensagens privadas para outros usuários, para que eu possa ter conversas privadas que não são visíveis para outros usuários.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>FT01</td>
+<td>US30</td>
+<td>Como um usuário, eu quero ser notificado quando uma nova mensagem privada for enviada para mim, para que eu possa saber imediatamente quando uma nova mensagem chegou e respondê-la.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>FT01</td>
+<td>US31</td>
+<td>Como um usuário, eu quero ser capaz de excluir minhas próprias mensagens enviadas, para que eu possa corrigir erros ou remover mensagens inapropriadas que enviei por engano.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>FT01</td>
+<td>US32</td>
+<td>Como um usuário, eu quero ser capaz de silenciar ou bloquear outros usuários que estão me incomodando com mensagens privadas não solicitadas, para que eu possa controlar minha experiência de comunicação.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>FT01</td>
+<td>US33</td>
+<td>Como um usuário, eu quero ser capaz de relatar mensagens públicas inapropriadas ou ofensivas enviadas por outros usuários, para que o administrador possa lidar com essas mensagens e tomar as medidas adequadas.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+
 </tbody>
 </table>
