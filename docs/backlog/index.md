@@ -156,10 +156,39 @@
 <td>O rankeamento precisa ser em ordem decrescente (do mais votado para o menos votado)</td>
 <td>Alta</td>
 </tr>
+
+<tr style="color:yellow">
+<td>E2</td>
+<td>FT04</td>
+<td>US15</td>
+<td>Eu como usuário gostaria de editar meus avisos em caso de erro de digitação e etc.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+
+<tr style="color:yellow">
+<td>E2</td>
+<td>FT04</td>
+<td>US16</td>
+<td>Eu como usuário gostaria de editar minhas perguntas em caso de erro de digitação e etc.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+
+<tr style="color:yellow">
+<td>E2</td>
+<td>FT04</td>
+<td>US17</td>
+<td>Eu como usuário gostaria de editar minhas respostas em caso de erro de digitação e etc.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+
+
 <tr>
 <td>E2</td>
 <td>FT05</td>
-<td>US15</td>
+<td>US18</td>
 <td>Eu como usuário gostaria de visualizar as perguntas do fórum conforme a ordem de rankeamento para saber as perguntas mais e menos relevantes</td>
 <td>O rankeamento precisa ser em ordem decrescente (do mais votado para o menos votado)</td>
 <td>Alta</td>
@@ -167,7 +196,7 @@
 <tr>
 <td>E2</td>
 <td>FT05</td>
-<td>US16</td>
+<td>US19</td>
 <td>Eu como usuário gostaria de avaliar as perguntas feitas por outros usuários&nbsp;para fins de nivelamento</td>
 <td>A votação será feita por estrelas</td>
 <td>Alta</td>
@@ -175,7 +204,7 @@
 <tr>
 <td>E2</td>
 <td>FT06</td>
-<td>US17</td>
+<td>US20</td>
 <td>Eu, como usuário, gostaria de avaliar as respostas fornecidas para fim de destaque das melhores respostas</td>
 <td>A votação será feita por estrelas</td>
 <td>Alta</td>
@@ -183,7 +212,7 @@
 <tr>
 <td>E2</td>
 <td>FT06</td>
-<td>US18</td>
+<td>US21</td>
 <td>Eu, como usuário, gostaria de visualizar as respostas em ordem de rankeamento, para saber as melhores respostas fornecidas</td>
 <td>O rankeamento precisa ser em ordem decrescente (do mais votado para o menos votado)</td>
 <td>Alta</td>
@@ -191,7 +220,7 @@
 <tr>
 <td>E2</td>
 <td>FT07</td>
-<td>US19</td>
+<td>US22</td>
 <td>Eu, como usuário, gostaria de avaliar os avisos postados para fim de destaque dos mais importantes</td>
 <td>A votação será feita por estrelas</td>
 <td>Alta</td>
@@ -199,7 +228,7 @@
 <tr>
 <td>E2</td>
 <td>FT07</td>
-<td>US20</td>
+<td>US23</td>
 <td>Eu, como usuário, gostaria de visualizar os avisos em ordem de rankeamento, para saber quais sao os principais avisos da faculdade</td>
 <td>O rankeamento precisa ser em ordem decrescente (do mais votado para o menos votado)</td>
 <td>Alta</td>
@@ -207,7 +236,7 @@
 <tr>
 <td>E3</td>
 <td>FT08</td>
-<td>US21</td>
+<td>US24</td>
 <td>Eu como usuário gostaria de me cadastrar no sistema para utilizar suas funcionalidades</td>
 <td>O cadastro precisa conter: nome completo, curso do aluno, matricula, celular, alem de um email e uma senha <br><br> Não é possivel cadastrar um email existente <br><br> Não é possivel cadastrar uma matricula existente</td>
 <td>Alta</td>
@@ -215,7 +244,7 @@
 <tr>
 <td>E3</td>
 <td>FT08</td>
-<td>US22</td>
+<td>US25</td>
 <td>Eu como usuário gostaria de visualizar os meus dados cadastrais em uma aba de perfil para poder conferir se as informações estão corretas</td>
 <td>Todas as informações utilizadas no cadastro devem estar disponíveis nesta aba, menos matrícula e senha<br><br>É permitida a visualização de um usuario por vez<br><br>Uma lista de usuários deve ser visualizada</td>
 <td>Alta</td>
@@ -223,7 +252,7 @@
 <tr>
 <td>E3</td>
 <td>FT08</td>
-<td>US23</td>
+<td>US26</td>
 <td>Eu como usuário gostaria de ter a possibilidade de buscar outros usuários para poder averiguar as perguntas que um usuário já fez</td>
 <td>A busca deve ser feita por nome</td>
 <td>Alta</td>
@@ -231,7 +260,7 @@
 <tr>
 <td>E3</td>
 <td>FT08</td>
-<td>US24</td>
+<td>US27</td>
 <td>Eu como usuário gostaria de editar os dados do meu perfil para caso alguma informação tenha sido preenchida incorretamente possa ser mudada</td>
 <td>Todos os dados podem ser atualizados a qualquer momento sem limite de quantidade</td>
 <td>Alta</td>
@@ -239,7 +268,7 @@
 <tr>
 <td>E3</td>
 <td>FT08</td>
-<td>US25</td>
+<td>US28</td>
 <td>Eu como usuario gostaria de ter a possibilidade de deletar minha conta para caso não deseje mais utilizá-la</td>
 <td>Ao excluir a conta, todas as atividades do usuário serão excluídas</td>
 <td>Alta</td>
@@ -247,7 +276,7 @@
 <tr>
 <td>E3</td>
 <td>FT09</td>
-<td>US26</td>
+<td>US29</td>
 <td>Eu como usuário gostaria de realizar login com email e senha para adentrar no sistema</td>
 <td>O login pode ser feito atraves de email e senha</td>
 <td>Alta</td>
@@ -255,91 +284,97 @@
 <tr>
 <td>E3</td>
 <td>FT09</td>
-<td>US27</td>
+<td>US30</td>
 <td>Eu como usuário gostaria de ter a possibilidade de recuperar minha senha através do email caso eu a esqueça</td>
 <td>O e-mail deve ser autenticado em até 10 minutos</td>
 <td>Alta</td>
 </tr>
-<tr>
+
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT01</td>
-<td>US28</td>
+<td>US31</td>
 <td>Como um usuário, eu quero ser capaz de enviar mensagens públicas para outros usuários em tempo real, para que eu possa ter conversas públicas com outros usuários sem precisar atualizar a página.</td>
 <td></td>
 <td>Alta</td>
 </tr>
-<tr>
+
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT01</td>
-<td>US29</td>
+<td>US32</td>
 <td>Como um usuário, eu quero ser capaz de enviar mensagens privadas para outros usuários, para que eu possa ter conversas privadas que não são visíveis para outros usuários.</td>
 <td></td>
 <td>Alta</td>
 </tr>
-<tr>
+
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT01</td>
-<td>US30</td>
+<td>US33</td>
 <td>Como um usuário, eu quero ser notificado quando uma nova mensagem privada for enviada para mim, para que eu possa saber imediatamente quando uma nova mensagem chegou e respondê-la.</td>
 <td></td>
 <td>Alta</td>
 </tr>
-<tr>
+
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT01</td>
-<td>US31</td>
+<td>US34</td>
 <td>Como um usuário, eu quero ser capaz de excluir minhas próprias mensagens enviadas, para que eu possa corrigir erros ou remover mensagens inapropriadas que enviei por engano.</td>
 <td></td>
 <td>Alta</td>
 </tr>
-<tr>
+
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT01</td>
-<td>US32</td>
+<td>US35</td>
 <td>Como um usuário, eu quero ser capaz de silenciar ou bloquear outros usuários que estão me incomodando com mensagens privadas não solicitadas, para que eu possa controlar minha experiência de comunicação.</td>
 <td></td>
 <td>Alta</td>
 </tr>
-<tr>
+
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT01</td>
-<td>US33</td>
+<td>US36</td>
 <td>Como um usuário, eu quero ser capaz de relatar mensagens públicas inapropriadas ou ofensivas enviadas por outros usuários, para que o administrador possa lidar com essas mensagens e tomar as medidas adequadas.</td>
 <td></td>
 <td>Alta</td>
 </tr>
 
-<tr>
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT02</td>
-<td>US34</td>
+<td>US37</td>
 <td>Como um usuário, eu quero ser capaz de visualizar todo o meu histórico de conversas com outro usuário, para que eu possa rever as informações e referências discutidas.</td>
 <td></td>
 <td>Alta</td>
 </tr>
 
-<tr>
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT02</td>
-<td>US35</td>
+<td>US38</td>
 <td>Como um usuário, eu quero ser capaz de pesquisar meu histórico de conversas por palavra-chave ou data específica, para que eu possa encontrar informações importantes de forma rápida e fácil.</td>
 <td></td>
 <td>Alta</td>
 </tr>
 
-<tr>
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT02</td>
-<td>US36</td>
+<td>US39</td>
 <td>Como um usuário, eu quero ser capaz de arquivar ou excluir conversas antigas que não são mais relevantes para mim, para manter minha lista de conversas organizada e fácil de usar.</td>
 <td></td>
 <td>Alta</td>
 </tr>
 
-<tr>
+<tr style="color:yellow">
 <td>E4</td>
 <td>FT02</td>
-<td>US37</td>
+<td>US40</td>
 <td>Como um usuário, eu quero que meu histórico de conversas mais recentes sejam recuperados e carregados mais rapidamente.</td>
 <td></td>
 <td>Alta</td>
