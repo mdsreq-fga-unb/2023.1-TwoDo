@@ -309,5 +309,41 @@
 <td>Alta</td>
 </tr>
 
+<tr>
+<td>E4</td>
+<td>FT02</td>
+<td>US34</td>
+<td>Como um usuário, eu quero ser capaz de visualizar todo o meu histórico de conversas com outro usuário, para que eu possa rever as informações e referências discutidas.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+
+<tr>
+<td>E4</td>
+<td>FT02</td>
+<td>US35</td>
+<td>Como um usuário, eu quero ser capaz de pesquisar meu histórico de conversas por palavra-chave ou data específica, para que eu possa encontrar informações importantes de forma rápida e fácil.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+
+<tr>
+<td>E4</td>
+<td>FT02</td>
+<td>US36</td>
+<td>Como um usuário, eu quero ser capaz de arquivar ou excluir conversas antigas que não são mais relevantes para mim, para manter minha lista de conversas organizada e fácil de usar.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+
+<tr>
+<td>E4</td>
+<td>FT02</td>
+<td>US37</td>
+<td>Como um usuário, eu quero que meu histórico de conversas mais recentes sejam recuperados e carregados mais rapidamente.</td>
+<td></td>
+<td>Alta</td>
+</tr>
+
 </tbody>
 </table>
