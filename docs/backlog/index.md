@@ -12,13 +12,18 @@
 ## 1. Épicos
 
 
-| Épico| Descrição                                                       |
+| Temas | Descrição                                                       |
 |------|-----------------------------------------------------------------|
-| E1   | Disponibilizar um fórum de dúvidas para os usuários do sistema.  |
-| E2   | Estabelecer um sistema de ranking para classificar usuários.     |
-| E3   | Realizar a administração de usuários.      |
-| E4   | Implementar um chat de comunicação para interação entre usuários.|
+| T01   | Disponibilizar um fórum de dúvidas para os usuários do sistema.  |
+| T02   | Estabelecer um sistema de ranking para classificar usuários.     |
+| T03   | Realizar a administração de usuários.      |
+| T04   | Implementar um chat de comunicação para interação entre usuários.|
 
+<!-- 
+| T01   | Disponibilizar um fórum de dúvidas para os usuários do sistema.  |
+| T02   | Estabelecer um sistema de ranking para classificar usuários.     |
+| T03   | Realizar a administração de usuários.      |
+| T04   | Implementar um chat de comunicação para interação entre usuários.| -->
 ## 2. Features
 
 | Épico | Feature | Descrição                                                         |
