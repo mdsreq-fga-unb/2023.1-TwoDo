@@ -2,7 +2,12 @@
 
 | Data     | Versão | Descrição                  | Autor(es)                                                                          |
 |----------|--------|----------------------------|---------------------------------------------------------------------------------------------|
-|01/05/2023|   0.1  | Definição do backlog do produto        |[Arthur](https://github.com/Arthrok)
+|01/05/2023|   0.1  | Definição do backlog do produto        |[Arthur](https://github.com/Arthrok)                           |
+|08/05/2023|0.2|Modificações nos Requisitos Não-Funcionais|[Yasmim](https://github.com/yaskisoba)|
+
+
+
+
 
 ## 1. Épicos
 
