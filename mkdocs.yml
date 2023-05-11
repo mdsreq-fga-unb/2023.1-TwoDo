@@ -35,9 +35,6 @@ nav:
     - 'Unidade 1': 
       - 'Seminário - Processos e Ciclos de Vida': 'entregas/unidade 1/seminario.md'
       - 'Vídeo - Apresentação GitPages': 'entregas/unidade 1/videoApresentacao.md'
-    - 'Unidade 2':
-    - 'Unidade 3':
-    - 'Unidade 4':
   - Backlog do Produto: 
     - 'Requisitos funcionais': 'backlog/index.md'
     - 'Requisitos não-funcionais': 'backlog/nao-funcionais.md'
