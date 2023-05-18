@@ -1,0 +1,32 @@
+.md-tabs, .md-header, .md-footer {
+    --md-primary-fg-color: #202024;
+}
+
+.md-header, .md-tabs, .md-search__input::placeholder {
+    --md-primary-bg-color: rgb(127, 83, 180);
+    color: rgb(127, 83, 180);
+}
+.md-header:hover, .md-tabs__item:hover {
+    color: rgb(151, 107, 204);
+}
+
+.md-main, .md-nav__list {
+    background-color: rgb(42, 38, 63); /* ou a cor desejada */
+    --md-primary-fg-color: #202024;
+    --md-default-bg-color: rgb(42, 38, 63);
+  }
+
+*{
+    --md-typeset-a-color: white;
+    --md-default-fg-color--light: white;
+}
+
+footer {
+    display: none;
+    
+}
+
+
+li {
+    list-style: none;
+}
